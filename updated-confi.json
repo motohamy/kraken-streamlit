@@ -20,5 +20,7 @@
   "lookback_days": 30,
   "backtest_enabled": true,
   "whale_threshold": 1000000,
-  "performance_evaluation_interval": 86400
+  "performance_evaluation_interval": 86400,
+  "check_tp_sl_interval": 10,
+  "position_check_interval": 10
 }
